@@ -1,75 +1,64 @@
 ﻿using System;
 
-/*
-    1) Faça um programa que preencha uma matriz de ordem 5 com números inteiros, calcule e mostre 
-    - a quantidade de números negativos 
-    - soma dos números positivos 
-    - valores primos desse vetor. 
-*/
-
-class Program
+class Programa
 {
     static void Main()
     {
-        int[,] mat = new int[5, 5];
-        Random random = new Random();
+        int[,] matriz = new int[5, 5];
+        Console.WriteLine("Informe 25 elementos:");
 
-        List<int> primos = new List<int>();
-
-        int quantNeg = 0;
-        int somaPos = 0;
-
-        for (int i = 0; i < 5; i++)
+        for (int l = 0; l < 5; l++) //Usado para ler linhas
         {
-            for (int j = 0; j < 5; j++)
+            for (int c = 0; c < 5; c++) //Usado para ler colunas
             {
-                mat[i, j] = random.Next(-5, 5);
+                Console.WriteLine("Informe o elemento " + l + " X " + c);
+                matriz[l, c] = int.Parse(Console.ReadLine());
             }
         }
 
-        Console.WriteLine("Matriz:");
-        for (int i = 0; i < 5; i++)
+        int quantNumNeg = 0;
+        int soma = 0;
+        //Imprime a matriz
+        for (int l = 0; l < 5; l++)
         {
-            for (int j = 0; j < 5; j++)
+            for (int c = 0; c < 5; c++)
             {
-                int num = mat[i, j];
-
-                Console.Write($"{num} ");
-
-                if (num < 0)
+                if (matriz[l, c] < 0)
                 {
-                    quantNeg++;
-                }
-                else
-                {
-                    somaPos += num;
+                    quantNumNeg++;
                 }
 
-                bool Primo = true;
-
-                for (int k = 2; k <= Math.Sqrt(num); k++)
+                if (matriz[l, c] > 0)
                 {
-                    if (num % k == 0)
+                    soma += matriz[l, c];
+                }
+
+                int control = 0;
+                if (matriz[l, c] > 1)
+                {
+                    for (int i = 5; i < matriz[l, c] + 1; i++)
                     {
-                        Primo = false;
-                        break;
+                        if (matriz[l, c] % i == 0)
+                        {
+                            control++;
+                        }
                     }
                 }
 
-                if (Primo && num > 1)
+                if (control == 1)
                 {
-                    primos.Add(num);
+                    Console.WriteLine();
+                    Console.WriteLine(matriz[l, c] + " é primo!");
                 }
+
             }
-            Console.WriteLine();
         }
-        Console.Write("Valores primos: ");
-        foreach (int num in primos)
-        {
-            Console.Write(num + ", ");
-        }
+
         Console.WriteLine();
-        Console.WriteLine($"Quantidade de números negativos: {quantNeg}");
-        Console.WriteLine($"Soma dos números positivos: {somaPos}");
+        Console.Write("A quantidade de números negativos é: " + quantNumNeg);
+        Console.WriteLine();
+        Console.Write("A soma dos números positivos é: " + soma);
+
+
     }
 }
