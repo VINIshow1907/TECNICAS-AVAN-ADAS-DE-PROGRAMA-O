@@ -4,12 +4,12 @@ class Programa
 {
     static void Main()
     {
-        int[,] matriz = new int[10, 10];
+        int[,] matriz = new int[2, 2];
         Console.WriteLine("Informe 100 elementos:");
 
-        for (int l = 0; l < 10; l++) //Usado para ler linhas
+        for (int l = 0; l < 2; l++) //Usado para ler linhas
         {
-            for (int c = 0; c < 10; c++) //Usado para ler colunas
+            for (int c = 0; c < 2; c++) //Usado para ler colunas
             {
                 Console.WriteLine("Informe o elemento " + l + " X " + c);
                 matriz[l, c] = int.Parse(Console.ReadLine());
@@ -25,9 +25,9 @@ class Programa
         float mediaSecundaria;
 
         //Imprime a matriz
-        for (int l = 0; l < 10; l++)
+        for (int l = 0; l < 2; l++)
         {
-            for (int c = 0; c < 10; c++)
+            for (int c = 0; c < 2; c++)
             {
                 if (l == c)
                 {
