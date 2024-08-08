@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\models\\emprestimomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\emprestimomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biblioteca\\Views\\Emprestimo\\Index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +17,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\models\\emprestimomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\models\\emprestimomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|c:\\users\\vinic\\desktop\\faculdade\\tecnicas avan\u00E7adas de programa\u00E7\u00E3o\\biblioteca\\biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6379D010-2F12-4666-AF83-503F977D06B8}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Editar.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Emprestimo\\Editar.cshtml",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Biblioteca\\Views\\Emprestimo\\Editar.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T01:10:07.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T01:10:07.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Index.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Emprestimo\\Index.cshtml",
@@ -79,12 +78,11 @@
               "RelativeToolTip": "Biblioteca\\Views\\Emprestimo\\Index.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAswB0AAABsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:12:53.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:12:53.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "EmprestimoController.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Controllers\\EmprestimoController.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Controllers\\EmprestimoController.cs",
@@ -92,25 +90,24 @@
               "RelativeToolTip": "Biblioteca\\Controllers\\EmprestimoController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwD4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:11:33.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:11:33.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Excluir.cshtml",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Excluir.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Emprestimo\\Excluir.cshtml",
               "ToolTip": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Excluir.cshtml",
               "RelativeToolTip": "Biblioteca\\Views\\Emprestimo\\Excluir.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswBsAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T01:23:05.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index1.cshtml",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Index1.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Emprestimo\\Index1.cshtml",
@@ -118,25 +115,23 @@
               "RelativeToolTip": "Biblioteca\\Views\\Emprestimo\\Index1.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T01:06:11.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T01:06:11.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Emprestimo\\Cadastrar.cshtml",
               "ToolTip": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Emprestimo\\Cadastrar.cshtml",
               "RelativeToolTip": "Biblioteca\\Views\\Emprestimo\\Cadastrar.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAswCQAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:55:18.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:55:18.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "emprestimoModel.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Models\\emprestimoModel.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Models\\emprestimoModel.cs",
@@ -144,12 +139,11 @@
               "RelativeToolTip": "Biblioteca\\Models\\emprestimoModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:05:09.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:05:09.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
@@ -157,12 +151,11 @@
               "RelativeToolTip": "Biblioteca\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:31:05.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:31:05.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
@@ -170,12 +163,11 @@
               "RelativeToolTip": "Biblioteca\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:09:53.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:09:53.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Data\\ApplicationDbContext.cs",
@@ -183,12 +175,11 @@
               "RelativeToolTip": "Biblioteca\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:27:45.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:27:45.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\FACULDADE\\TECNICAS AVAN\u00C7ADAS DE PROGRAMA\u00C7\u00C3O\\biblioteca\\Biblioteca\\Biblioteca\\appsettings.json",
               "RelativeDocumentMoniker": "Biblioteca\\appsettings.json",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "Biblioteca\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-22T18:18:00.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:18:00.1Z"
             }
           ]
         }
